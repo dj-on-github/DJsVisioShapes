@@ -1,5 +1,6 @@
 # DJsVisioShapes
 Smart shapes and templates for Visio, for hardware diagrams, timing diagrams and other things.
+
 This is my personal library that I've but together over 20 years of using Visio as a electronics hardware engineer.
 
 Put them in your Visio shapes folder, usually "C:/Users/<username>/Documents/My Shapes".
@@ -14,3 +15,4 @@ Fast arrows for busses. Skinny arrows for wires. Clean abutment. Arrow heads mai
 the above shape files.
 7. djs_graphgrid.vst : A simple graph grid stencil.
 
+Enjoy.
