@@ -6,7 +6,7 @@ This is my personal library that I've but together over 20 years of using Visio 
 Put them in your Visio shapes folder, usually "C:/Users/<username>/Documents/My Shapes".
 
 1. DJs_Arrows.vss : Smart arrows that work on a 0.1" grid
-Fast arrows for busses. Skinny arrows for wires. Clean abutment. Arrow heads maintain their shape when stretched.
+Fat arrows for busses. Skinny arrows for wires. Clean abutment. Arrow heads maintain their shape when stretched.
 2. DJs_TimingDiagram.vss : Shapes for making timing diagrams. Edges maintain their angle when stretched.
 3. DJs_BasicShapes.vss : Squares and rectangles and stuff.
 4. DJs_Odds_and_ends.vss : Shapes I've found useful over the years.
